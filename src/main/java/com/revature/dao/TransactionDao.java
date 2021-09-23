@@ -208,6 +208,7 @@ public class TransactionDao implements TransactionDaoInterface {
 			ps.executeUpdate();
 			
 			System.out.println("Deletion of Last transaction is successful");
+			log.info("Transaction id: " + transaction_id + " is successfully deleted from database" );
 			
 		}catch(SQLException e) {
 			System.out.println("Transaction deletion fail");

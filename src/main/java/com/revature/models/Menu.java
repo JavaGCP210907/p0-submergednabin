@@ -77,15 +77,15 @@ public class Menu {
 								if(user_role_id == roleId) {
 									System.out.println("**** Hi "+ ud.getFirst_name()+
 									" You are Logged in as a " + roleType);
-									
+									boolean displaySecondMenu = true;
+									while(displaySecondMenu) {
 									System.out.println("********************");
 									System.out.println("Type 'statement' to view your bank statement ");
 									System.out.println("Type 'deposit' to deposit into Your Account ");
 									System.out.println("Type 'withdraw' to withdraw Money from Your Bank Account ");
 									System.out.println("Type 'exit' to logout");
 									String inputAgain = scan.nextLine();
-									boolean displaySecondMenu = true;
-									while(displaySecondMenu) {
+									
 										switch(inputAgain) {
 										case("statement"):{
 											System.out.println("********************************");
@@ -104,7 +104,7 @@ public class Menu {
 											System.out.println("===================================");
 											transactiondao.TotalSum(id);
 											
-											displaySecondMenu = false;
+//											displaySecondMenu = false;
 											
 											
 											break;
@@ -134,9 +134,9 @@ public class Menu {
 												String transaction_status = "deposit";
 												Transaction t = new Transaction(user_id_fk, amount_deposit, amount_withdraw, currentDate," ", transaction_status);
 												transactiondao.addTransactions(t);
-												displaySecondMenu=false;
-												break;
+//												displaySecondMenu=false;
 											}
+											break;
 											
 											
 										}
@@ -153,8 +153,8 @@ public class Menu {
 											
 											transactiondao.getTotalAmountByIdAndAddTransaction(user_details_id, amount_withdraw);
 											
-											displaySecondMenu = false;
-	
+//											displaySecondMenu = false;
+											break;
 											
 										}
 										case("exit"):{
@@ -198,7 +198,9 @@ public class Menu {
 								if(user_role_id == roleId) {
 									System.out.println("**** Hi "+ ud.getFirst_name()+
 									" You are Logged in as a " + roleType);
+									boolean displaySecondMenu = true;
 									
+									while(displaySecondMenu) {
 									System.out.println("********************");
 									System.out.println("Type 'customers' to view All Customer ");
 					
@@ -207,9 +209,7 @@ public class Menu {
 									System.out.println("Type 'exit' to logout");
 									String inputAgain = scan.nextLine();
 									
-									boolean displaySecondMenu = true;
 									
-									while(displaySecondMenu) {
 										switch(inputAgain) {
 										case("customers"):{
 											System.out.println("********************************");
@@ -240,7 +240,7 @@ public class Menu {
 											}
 											log.info("Customer Info Listed");
 						
-											displaySecondMenu = false;
+//											displaySecondMenu = false;
 											break;
 										}
 										
@@ -268,7 +268,7 @@ public class Menu {
 												String transaction_status = "deposit";
 												Transaction t = new Transaction(user_id_fk, amount_deposit, amount_withdraw, currentDate," ", transaction_status);
 												transactiondao.addTransactions(t);
-												displaySecondMenu=false;
+//												displaySecondMenu=false;
 												break;
 											}
 											
@@ -333,14 +333,16 @@ public class Menu {
 													
 													
 													userdao.updateUserDetailsByEmail(users);
+													break;
 												}else {
 													System.out.println("UserDetails email mismatched");
-													displaySecondMenu = false;
+													break;
+//													displaySecondMenu = false;
 												}
 											}
 											
 											
-											displaySecondMenu = false;
+//											displaySecondMenu = false;
 	
 											
 										}
@@ -366,21 +368,23 @@ public class Menu {
 														transactiondao.deleteLastTransactionsByUserId(transaction_id);
 													}
 													
-													
+													break;
 													
 													
 												}else {
 													System.out.println(" Data doesnot match");
+													break;
 												}
 											}
 											
 											
 											
 											
-											displaySecondMenu = false;
+//											displaySecondMenu = false;
 											break;
 										}
 										case("exit"):{
+											System.out.println("successfully Exited!!");
 											displaySecondMenu = false;
 											break;
 										}
@@ -403,6 +407,7 @@ public class Menu {
 								
 							}else {
 								System.out.println("Invalid email/Password");
+								break;
 							}
 					}
 					}
@@ -486,6 +491,7 @@ public class Menu {
 			}
 			
 			case("Exit"): {
+				System.out.println("Bye!! You are Exited!!");
 				displayMenu=false;
 				break;
 			}

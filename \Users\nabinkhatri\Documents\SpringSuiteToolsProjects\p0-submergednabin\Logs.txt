@@ -112,3 +112,106 @@
 2021-09-23 02:40:37 INFO  UserDetailDao:199 - successfully updated the user id:1
 2021-09-23 03:07:29 INFO  TransactionDao:215 - transaction deletion fail.
 2021-09-23 03:56:00 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 09:45:12 INFO  TransactionDao:81 - Transaction of user_id: 1 is successfuly added
+2021-09-23 09:47:40 INFO  TransactionDao:81 - Transaction of user_id: 1 is successfuly added
+2021-09-23 09:49:12 INFO  TransactionDao:81 - Transaction of user_id: 1 is successfuly added
+2021-09-23 09:50:13 INFO  TransactionDao:81 - Transaction of user_id: 1 is successfuly added
+2021-09-23 10:26:07 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:43:35 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:40 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:40 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:40 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:41 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:41 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:41 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:41 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:41 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:41 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:41 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:41 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:41 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:41 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:41 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:41 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:41 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:41 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:41 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:41 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:41 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:41 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:41 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:41 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:42 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:42 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:42 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:42 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:42 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:42 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:42 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:42 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:42 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:42 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:42 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:42 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:42 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:42 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:42 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:42 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:42 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:42 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:42 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:43 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:43 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:43 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:43 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:43 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:43 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:43 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:43 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:43 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:43 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:43 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:43 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:43 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:43 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:43 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:43 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:43 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:43 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:43 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:43 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:43 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:44 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:44 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:44 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:44 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:44 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:44 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:44 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:44 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:44 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:44 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:44 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:44 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:44 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:44 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:44 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:44 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:44 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:44 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:44 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:44 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:44 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 10:52:44 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 11:04:19 INFO  TransactionDao:81 - Transaction of user_id: 1 is successfuly added
+2021-09-23 11:11:16 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 11:13:24 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 11:14:23 INFO  TransactionDao:81 - Transaction of user_id: 1 is successfuly added
+2021-09-23 11:16:26 INFO  Menu:241 - Customer Info Listed
+2021-09-23 11:17:13 INFO  UserDetailDao:199 - successfully updated the user id:1
+2021-09-23 11:54:29 INFO  TransactionDao:81 - Transaction of user_id: 1 is successfuly added
+2021-09-23 11:54:47 INFO  TransactionDao:141 - User with user_id: 1 withdraw amount: 300
+2021-09-23 11:54:56 INFO  TransactionDao:189 - total balance is successfully loaded
+2021-09-23 11:55:42 INFO  Menu:241 - Customer Info Listed
+2021-09-23 11:56:44 INFO  UserDetailDao:199 - successfully updated the user id:1
+2021-09-23 11:57:19 INFO  Menu:241 - Customer Info Listed
